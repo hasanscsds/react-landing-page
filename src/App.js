@@ -10,7 +10,6 @@ import Footer from './footer/Footer';
 import './HomePage/styles/style.scss';
 import './HomePage/styles/responsive.scss';
 
-
 function App() {
   return (
     <div className="App">
