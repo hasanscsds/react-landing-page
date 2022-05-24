@@ -38,5 +38,4 @@ function ResponsiveModal() {
         </div >
     );
 }
-  
 export default ResponsiveModal;
