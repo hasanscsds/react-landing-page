@@ -8,7 +8,7 @@ import ResponsiveModal from './/ResponsiveModal';
 const Nav = () => {
     return (
         <>
-          <nav className="navigation">
+        <nav className="navigation">
             <a href="logo" className="nav-logo">
                 <img src={NavLogo} alt="nav-logo-img"/>
             </a>
@@ -35,8 +35,7 @@ const Nav = () => {
                     <img src={Shopping} alt="shopping-icon"/>
                 </a>
             </div>
-          </nav>  
-           
+        </nav>  
         </>
     );
 };
